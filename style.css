@@ -1,0 +1,24 @@
+#header {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#main {
+    font-family: sans-serif;
+}
+
+#number {
+    display: flex;
+    justify-content: center;
+}
+
+#generate {
+    display: flex;
+    justify-content: center;
+}
+
+#submit {
+    display: flex;
+    justify-content: center;
+}
